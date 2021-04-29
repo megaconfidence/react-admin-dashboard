@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is the frontend dashboard UI built with `React-admin`. Its is currently hosted on `Netlify` at [https://as-react-admin.netlify.app/#/rentals](https://as-react-admin.netlify.app/#/rentals). Here are the login credentials
+This project is the frontend dashboard UI built with `React-admin`. Its is currently hosted on `Netlify` at [https://as-react-admin.netlify.app/](https://as-react-admin.netlify.app/#/rentals). Here are the login credentials
 
 ```
 username: confidence@appsmith.com
